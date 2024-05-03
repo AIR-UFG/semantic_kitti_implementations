@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "semantic_kitti_implementations"
+  site-url: "https://AIR-UFG.github.io/semantic_kitti_implementations"
+  description: ""
+  repo-branch: main
+  repo-url: "https://github.com/AIR-UFG/semantic_kitti_implementations"
